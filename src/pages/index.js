@@ -9,6 +9,7 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>About to build something, a new thing. Lets do this!</p>
+    <p>If this message is shown, the yes continuos deployment is working</p>
     <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
       <Image />
     </div>
